@@ -22,7 +22,7 @@
 
     {
       "id": "3",
-      "tipo": "ensino",
+      "tipo": "extensão",
       "link": "",
       "titulo": "PETeventos",
       "status": "Contínuo",
@@ -42,7 +42,7 @@
 
     {
       "id": "5",
-      "tipo": "ensino",
+      "tipo": "extensão",
       "link": "",
       "titulo": "HELPet",
       "status": "Contínuo",
@@ -52,7 +52,7 @@
 
     {
       "id": "6",
-      "tipo": "ensino",
+      "tipo": "extensão",
       "link": "",
       "titulo": "BioExt - Atividades Extensionistas",
       "status": "Contínuo",
@@ -62,12 +62,12 @@
 
     {
       "id": "7",
-      "tipo": "ensino",
+      "tipo": "extensão",
       "link": "",
       "titulo": "DIVULGAPET",
       "status": "Contínuo",
       "descricao": "Programa de divulgação e comunicação entre os pares e a comunidade externa por meio das tecnologias digitais, centrado nas redes sociais e no site do grupo PET/LICBIO.",
-      "expandido": "O DivulgaPET mantém os canais digitais do PET/LICBIO atualizados, promovendo comunicação eficaz. Os alunos petianos desenvolvem habilidades digitais e colaboram com o grupo PET ADS São Carlos, visando estimular a criatividade na comunicação e fortalecer a interação com a comunidade."      
+      "expandido": "O DivulgaPET mantém os canais digitais do PET/LICBIO atualizados, promovendo comunicação eficaz. Os alunos petianos desenvolvem habilidades digitais e parcerias como com o grupo PET ADS São Carlos, visando estimular a criatividade na comunicação e fortalecer a interação com a comunidade."      
     }
   ]
 }
