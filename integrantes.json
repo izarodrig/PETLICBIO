@@ -108,7 +108,7 @@
     {
       "id": "14",
       "nome": "Vitória Eggon da Silva",
-      "foto": "./images/fotos_alunos/vitoriaSilvaRocha.jpg",
+      "foto": "./images/fotos_alunos/vitoriaEggon.jpg",
       "ano": "2023",
       "tipo": "Voluntário",
       "lattes": "https://lattes.cnpq.br"
@@ -388,7 +388,7 @@
       "nome": "Martha C. M. G. Netto",
       "tipo": "Tutor",
       "foto": "./images/fotos_tutores/marthaNettoTutora.png",
-      "ano": "2013",
+      "ano": "2012-2021",
       "lattes": "https://lattes.cnpq.br"
     }
   ]
